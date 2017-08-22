@@ -24,6 +24,16 @@
             <artifactId>geode-core</artifactId>
             <version>1.2.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.ignite</groupId>
+            <artifactId>ignite-core</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.infinispan</groupId>
+            <artifactId>infinispan-embedded</artifactId>
+            <version>9.1.0.Final</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
